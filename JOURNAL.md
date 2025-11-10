@@ -49,3 +49,12 @@ I polished up the cad to make it more printable and clean, here is the final res
 
   
 
+## 11/9/2025 - Created add added files  
+
+I added files and stuff! 
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTk1OSwicHVyIjoiYmxvYl9pZCJ9fQ==--10a193e607c1c3698f4291b2af6a056695e63e76/image.png)
+
+I added my BOM, README, and CAD files. I slightly fileted my phone to make it more accurate. My BOM was scrapped of real parts I had, so the only real cost was about a dollar of filament lol.
+  
+
